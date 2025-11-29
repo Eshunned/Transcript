@@ -1,6 +1,7 @@
 fastapi
-uvicorn[standard]
+uvicorn[standard] python-multipart
 pydantic
 python-dotenv
 sarvamai
 requests
+
