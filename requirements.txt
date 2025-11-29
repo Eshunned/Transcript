@@ -1,17 +1,6 @@
-Core Server Components
-
 fastapi
 uvicorn[standard]
-
-Utilities
-
 pydantic
 python-dotenv
-
-Sarvam AI SDK (Based on user-provided code)
-
 sarvamai
-
-Underlying HTTP library (Necessary for secure file transfer/API calls)
-
 requests
