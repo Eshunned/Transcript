@@ -1,9 +1,11 @@
-fastapi uvicorn[standard]
+fastapi
+uvicorn[standard]
 python-multipart
 pydantic 
 python-dotenv
 sarvamai
 requests
+
 
 
 
